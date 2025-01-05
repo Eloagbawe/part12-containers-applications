@@ -1,480 +1,9 @@
-Script started on Sat Jan  4 20:59:29 2025
-[1m[7m%[27m[1m[0m                                                                                                           [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004h[7mdocker container run -it ubuntu bash[27m[36D[27md[27mo[27mc[27mk[27me[27mr[27m [27mc[27mo[27mn[27mt[27ma[27mi[27mn[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27mb[27ma[27ms[27mh[?2004l
-Unable to find image 'ubuntu:latest' locally
-latest: Pulling from library/ubuntu
-
-[1A[2K8bb55f067777: Pulling fs layer [1B[1A[2K8bb55f067777: Downloading  294.9kB/28.89MB[1B[1A[2K8bb55f067777: Downloading  5.042MB/28.89MB[1B[1A[2K8bb55f067777: Downloading  10.06MB/28.89MB[1B[1A[2K8bb55f067777: Downloading  15.07MB/28.89MB[1B[1A[2K8bb55f067777: Downloading  18.61MB/28.89MB[1B[1A[2K8bb55f067777: Downloading  21.87MB/28.89MB[1B[1A[2K8bb55f067777: Downloading  25.71MB/28.89MB[1B[1A[2K8bb55f067777: Verifying Checksum [1B[1A[2K8bb55f067777: Download complete [1B[1A[2K8bb55f067777: Extracting  294.9kB/28.89MB[1B[1A[2K8bb55f067777: Extracting  5.898MB/28.89MB[1B[1A[2K8bb55f067777: Extracting  9.142MB/28.89MB[1B[1A[2K8bb55f067777: Extracting  15.63MB/28.89MB[1B[1A[2K8bb55f067777: Extracting  23.59MB/28.89MB[1B[1A[2K8bb55f067777: Extracting  24.18MB/28.89MB[1B[1A[2K8bb55f067777: Extracting  27.13MB/28.89MB[1B[1A[2K8bb55f067777: Extracting  28.61MB/28.89MB[1B[1A[2K8bb55f067777: Extracting  28.89MB/28.89MB[1B[1A[2K8bb55f067777: Pull complete [1BDigest: sha256:80dd3c3b9c6cecb9f1667e9290b3bc61b78c2678c02cbdae5f0fea92cc6734ab
-Status: Downloaded newer image for ubuntu:latest
-[?2004h]0;root@67a4518f75e3: /root@67a4518f75e3:/# mkdir [7m/usr/src/app[27m/usr/src/app
-[?2004l[?2004h]0;root@67a4518f75e3: /root@67a4518f75e3:/# touch [7m/usr/src/app/index.js[27m/usr/src/app/index.js
-[?2004l[?2004h]0;root@67a4518f75e3: /root@67a4518f75e3:/# [Kexit
+Script started on Sat Jan  4 23:04:14 2025
+[1m[7m%[27m[1m[0m                                                                                                     [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004hddocker container run -it ubuntu bash[?2004l
+[?2004h]0;root@8bbff8a771e2: /root@8bbff8a771e2:/# mkdir /usr/src/app
+[?2004l[?2004h]0;root@8bbff8a771e2: /root@8bbff8a771e2:/# touch . /usr/src/app/index.k js
+[?2004l[?2004h]0;root@8bbff8a771e2: /root@8bbff8a771e2:/# [Kexit
 [?2004lexit
-[1m[7m%[27m[1m[0m                                                                                                           [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004hcclear[?2004l
-[3J[H[2J[1m[7m%[27m[1m[0m                                                                                                           [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004hcleardocker container run -it ubuntu bash[36Dexit                                [32Decho "hello"hello world[16Dbrew services stop mysql[10Dlist      [18Dclear             [13Dbrew services liststop mysql[24Decho hello world        [8D[11D"hello"    [12Dexit        [8Ddocker container run -it ubuntu bash[36Dclear                               [31D     cleardocker container run -it ubuntu bash[36Dexit                                [32Decho "hello"hello world[16Dbrew services stop mysql[10Dlist      [18Dclear             [13Dnode clearnode consumer.js[11Dpublisher.js 219[21Dclear                [16Dnpm inode publisher.js 219[21Dcd rabbitmq          [10D[8D..      clearnode index.js[13Dclear        [8Dcd ..rabbitmq[11Dnode publisher.js 219[21Dnpm i                [16Dclearnode publisher.js 219[16Dconsumer.js     [16Dclear           [11Dnode clearbrew services liststop mysql[24Decho hello world        [8D[11D"hello"    [12Dexit        [8Ddocker container run -it ubuntu bash[36Dclear                               [31D     sscript -a script-answers[1m/[0m[0m/exercise12_3[?2004l
-Script started, output file is script-answers/exercise12_3
-[1m[7m%[27m[1m[0m                                                                                                           [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004h[7mdocker start -i condescending_gauss[27m[35D[27md[27mo[27mc[27mk[27me[27mr[27m [27ms[27mt[27ma[27mr[27mt[27m [27m-[27mi[27m [27mc[27mo[27mn[27md[27me[27ms[27mc[27me[27mn[27md[27mi[27mn[27mg[27m_[27mg[27ma[27mu[27ms[27ms[?2004l
-[?2004h]0;root@67a4518f75e3: /root@67a4518f75e3:/# [7mnano /usr/src/app/index.js[27mnano /usr/src/app/index.js
-[?2004l[?2004h[?1049h[22;0;0t[1;13r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[11;47H(B[0;7m[ Reading... ](B[m[11;46H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2 [30b/usr/src/app/index.js [39b [1;106H(B[m[12d(B[0;7m^G(B[m Help[12;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[12;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[13d(B[0;7m^X(B[m Exit[13;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[2d[?12l[?25h[?25l[1;68H(B[0;7m*[106G(B[m[?12l[?25h[2dc[?25l[?12l[?25ho[?25l[?12l[?25hn[?25l[?12l[?25hs[?25l[?12l[?25ho[?25l[?12l[?25hl[?25l[?12l[?25he[?25l[?12l[?25h.[?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25hg[?25l[?12l[?25h([?25l[?12l[?25h'[?25l[?12l[?25hH[?25l[?12l[?25he[?25l[?12l[?25hl[?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25h[42m [49m(B[m[?25l[11d[K[?12l[?25h[2;19H W[?25l[?12l[?25ho[?25l[?12l[?25hr[?25l[?12l[?25hl[?25l[?12l[?25hd[?25l[?12l[?25h[2;13H(B[0;1m[35m'Hello World'[39m(B[m[?25l[?12l[?25h)[?25l[?12l[?25h;[?25l[12;16H [10b(B[0;7mM-D(B[m DOS Format [11b(B[0;7mM-A(B[m Append[16X[12;79H(B[0;7mM-B(B[m Backup File[K[13;2H(B[0;7mC(B[m Cancel[16G [10b(B[0;7mM-M(B[m Mac Format [11b(B[0;7mM-P(B[m Prepend[15X[13;79H(B[0;7m^T(B[m Browse[K[11d(B[0;7mFile Name to Write: /usr/src/app/index.js [64b [11;42H(B[m[?12l[?25h[?25l    [1K (B[0;7m[ Writing... ](B[m[K[1;68H(B[0;7m [106G(B[m[11;46H(B[0;7m[ Wrote 1 line ](B[m[12;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut [8b(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[13;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste [6b(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[?12l[?25h[2;28H[?25l[11d[J[13d[?12l[?25h[13;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;root@67a4518f75e3: /root@67a4518f75e3:/# [Kexit
-[?2004lexit
-[1m[7m%[27m[1m[0m                                                                                                           [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004hdocker start -i condescending_gauss[28D-v                          [26D[9Dgit clone https://github.com/fullstack-hy2020/part12-containers-applications.git[K[A[27Cdocker -v[K[1B[K[A[55Cstart -i condescending_gauss[35D                                   [35Dsscript -a script-answers[1m/[0m[0m/exerv cise12_4.txt[?2004l[1BScript started, output file is script-answers/exercise12_4.txt
-[1m[7m%[27m[1m[0m                                                                                                           [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004hddocker start -i condescending_gauss[?2004l
-[?2004h]0;root@67a4518f75e3: /root@67a4518f75e3:/# [7mapt-get -y install nano[27m    curl
-[?2004lReading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 6%Reading package lists... 6%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 75%Reading package lists... 75%Reading package lists... 79%Reading package lists... 79%Reading package lists... 85%Reading package lists... 85%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 91%Reading package lists... 91%Reading package lists... 96%Reading package lists... 96%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
-Reading state information... 0% Reading state information... 98%Reading state information... Done
-The following additional packages will be installed:
-  ca-certificates krb5-locales libbrotli1 libcurl4t64 libgssapi-krb5-2 libk5crypto3 libkeyutils1
-  libkrb5-3 libkrb5support0 libldap-common libldap2 libnghttp2-14 libpsl5t64 librtmp1 libsasl2-2
-  libsasl2-modules libsasl2-modules-db libssh-4 openssl publicsuffix
-Suggested packages:
-  krb5-doc krb5-user libsasl2-modules-gssapi-mit | libsasl2-modules-gssapi-heimdal libsasl2-modules-ldap
-  libsasl2-modules-otp libsasl2-modules-sql
-The following NEW packages will be installed:
-  ca-certificates curl krb5-locales libbrotli1 libcurl4t64 libgssapi-krb5-2 libk5crypto3 libkeyutils1
-  libkrb5-3 libkrb5support0 libldap-common libldap2 libnghttp2-14 libpsl5t64 librtmp1 libsasl2-2
-  libsasl2-modules libsasl2-modules-db libssh-4 openssl publicsuffix
-0 upgraded, 21 newly installed, 0 to remove and 0 not upgraded.
-Need to get 3552 kB of archives.
-After this operation, 9887 kB of additional disk space will be used.
-0% [Working]            Get:1 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 openssl arm64 3.0.13-0ubuntu3.4 [985 kB]
-0% [1 openssl 13.9 kB/985 kB 1%]14% [1 openssl 604 kB/985 kB 61%]                                 23% [Working]             Get:2 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 ca-certificates all 20240203 [159 kB]
-24% [2 ca-certificates 39.5 kB/159 kB 25%]                                          28% [Waiting for headers]                         Get:3 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 krb5-locales all 1.20.1-6ubuntu2.2 [14.0 kB]
-28% [3 krb5-locales 5010 B/14.0 kB 36%]                                       29% [Waiting for headers]                         Get:4 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libkrb5support0 arm64 1.20.1-6ubuntu2.2 [34.1 kB]
-29% [4 libkrb5support0 15.4 kB/34.1 kB 45%]                                           31% [Waiting for headers]                         Get:5 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libk5crypto3 arm64 1.20.1-6ubuntu2.2 [85.8 kB]
-31% [5 libk5crypto3 12.3 kB/85.8 kB 14%]                                        34% [Waiting for headers]                         Get:6 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 libkeyutils1 arm64 1.6.3-3build1 [9654 B]
-34% [6 libkeyutils1 9654 B/9654 B 100%]                                       35% [Working]             Get:7 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libkrb5-3 arm64 1.20.1-6ubuntu2.2 [349 kB]
-35% [7 libkrb5-3 8215 B/349 kB 2%]                                  Get:8 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libgssapi-krb5-2 arm64 1.20.1-6ubuntu2.2 [142 kB]
-44% [8 libgssapi-krb5-2 28.7 kB/142 kB 20%]                                           48% [Waiting for headers]                         Get:9 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libnghttp2-14 arm64 1.59.0-1ubuntu0.1 [74.4 kB]
-48% [9 libnghttp2-14 12.3 kB/74.4 kB 17%]                                         Get:10 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 libpsl5t64 arm64 0.21.2-1.1build1 [57.4 kB]
-                                         51% [10 libpsl5t64 44.6 kB/57.4 kB 78%]                                       53% [Working]             Get:11 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 publicsuffix all 20231001.0357-0.1 [129 kB]
-53% [11 publicsuffix 18.6 kB/129 kB 14%]                                        56% [Working]             Get:12 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 libbrotli1 arm64 1.1.0-2build2 [339 kB]
-57% [12 libbrotli1 13.9 kB/339 kB 4%]                                     65% [Waiting for headers]                         Get:13 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libsasl2-modules-db arm64 2.1.28+dfsg1-5ubuntu3.1 [21.6 kB]
-65% [13 libsasl2-modules-db 16.8 kB/21.6 kB 78%]                                                66% [Waiting for headers]                         Get:14 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libsasl2-2 arm64 2.1.28+dfsg1-5ubuntu3.1 [54.7 kB]
-67% [14 libsasl2-2 31.4 kB/54.7 kB 57%]                                       69% [Waiting for headers]                         Get:15 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libldap2 arm64 2.6.7+dfsg-1~exp1ubuntu8.1 [194 kB]
-69% [15 libldap2 12.5 kB/194 kB 6%]                                   74% [Waiting for headers]                         Get:16 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 librtmp1 arm64 2.4+20151223.gitfa8646d.1-2build7 [57.8 kB]
-74% [16 librtmp1 6404 B/57.8 kB 11%]                                    76% [Waiting for headers]                         Get:17 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 libssh-4 arm64 0.10.6-2build2 [189 kB]
-77% [17 libssh-4 16.4 kB/189 kB 9%]                                   81% [Waiting for headers]                         Get:18 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libcurl4t64 arm64 8.5.0-2ubuntu10.6 [333 kB]
-82% [18 libcurl4t64 5405 B/333 kB 2%]                                     90% [Waiting for headers]                         Get:19 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 curl arm64 8.5.0-2ubuntu10.6 [222 kB]
-90% [19 curl 14.2 kB/222 kB 6%]                               96% [Waiting for headers]                         Get:20 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libldap-common all 2.6.7+dfsg-1~exp1ubuntu8.1 [31.5 kB]
-96% [20 libldap-common 24.2 kB/31.5 kB 77%]                                           97% [Waiting for headers]                         Get:21 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libsasl2-modules arm64 2.1.28+dfsg1-5ubuntu3.1 [69.6 kB]
-98% [21 libsasl2-modules 8022 B/69.6 kB 12%]                                            100% [Working]              Fetched 3552 kB in 2s (1655 kB/s)
-debconf: delaying package configuration, since apt-utils is not installed
-Selecting previously unselected package openssl.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4447 files and directories currently installed.)
-Preparing to unpack .../00-openssl_3.0.13-0ubuntu3.4_arm64.deb ...
-Unpacking openssl (3.0.13-0ubuntu3.4) ...
-Selecting previously unselected package ca-certificates.
-Preparing to unpack .../01-ca-certificates_20240203_all.deb ...
-Unpacking ca-certificates (20240203) ...
-Selecting previously unselected package krb5-locales.
-Preparing to unpack .../02-krb5-locales_1.20.1-6ubuntu2.2_all.deb ...
-Unpacking krb5-locales (1.20.1-6ubuntu2.2) ...
-Selecting previously unselected package libkrb5support0:arm64.
-Preparing to unpack .../03-libkrb5support0_1.20.1-6ubuntu2.2_arm64.deb ...
-Unpacking libkrb5support0:arm64 (1.20.1-6ubuntu2.2) ...
-Selecting previously unselected package libk5crypto3:arm64.
-Preparing to unpack .../04-libk5crypto3_1.20.1-6ubuntu2.2_arm64.deb ...
-Unpacking libk5crypto3:arm64 (1.20.1-6ubuntu2.2) ...
-Selecting previously unselected package libkeyutils1:arm64.
-Preparing to unpack .../05-libkeyutils1_1.6.3-3build1_arm64.deb ...
-Unpacking libkeyutils1:arm64 (1.6.3-3build1) ...
-Selecting previously unselected package libkrb5-3:arm64.
-Preparing to unpack .../06-libkrb5-3_1.20.1-6ubuntu2.2_arm64.deb ...
-Unpacking libkrb5-3:arm64 (1.20.1-6ubuntu2.2) ...
-Selecting previously unselected package libgssapi-krb5-2:arm64.
-Preparing to unpack .../07-libgssapi-krb5-2_1.20.1-6ubuntu2.2_arm64.deb ...
-Unpacking libgssapi-krb5-2:arm64 (1.20.1-6ubuntu2.2) ...
-Selecting previously unselected package libnghttp2-14:arm64.
-Preparing to unpack .../08-libnghttp2-14_1.59.0-1ubuntu0.1_arm64.deb ...
-Unpacking libnghttp2-14:arm64 (1.59.0-1ubuntu0.1) ...
-Selecting previously unselected package libpsl5t64:arm64.
-Preparing to unpack .../09-libpsl5t64_0.21.2-1.1build1_arm64.deb ...
-Unpacking libpsl5t64:arm64 (0.21.2-1.1build1) ...
-Selecting previously unselected package publicsuffix.
-Preparing to unpack .../10-publicsuffix_20231001.0357-0.1_all.deb ...
-Unpacking publicsuffix (20231001.0357-0.1) ...
-Selecting previously unselected package libbrotli1:arm64.
-Preparing to unpack .../11-libbrotli1_1.1.0-2build2_arm64.deb ...
-Unpacking libbrotli1:arm64 (1.1.0-2build2) ...
-Selecting previously unselected package libsasl2-modules-db:arm64.
-Preparing to unpack .../12-libsasl2-modules-db_2.1.28+dfsg1-5ubuntu3.1_arm64.deb ...
-Unpacking libsasl2-modules-db:arm64 (2.1.28+dfsg1-5ubuntu3.1) ...
-Selecting previously unselected package libsasl2-2:arm64.
-Preparing to unpack .../13-libsasl2-2_2.1.28+dfsg1-5ubuntu3.1_arm64.deb ...
-Unpacking libsasl2-2:arm64 (2.1.28+dfsg1-5ubuntu3.1) ...
-Selecting previously unselected package libldap2:arm64.
-Preparing to unpack .../14-libldap2_2.6.7+dfsg-1~exp1ubuntu8.1_arm64.deb ...
-Unpacking libldap2:arm64 (2.6.7+dfsg-1~exp1ubuntu8.1) ...
-Selecting previously unselected package librtmp1:arm64.
-Preparing to unpack .../15-librtmp1_2.4+20151223.gitfa8646d.1-2build7_arm64.deb ...
-Unpacking librtmp1:arm64 (2.4+20151223.gitfa8646d.1-2build7) ...
-Selecting previously unselected package libssh-4:arm64.
-Preparing to unpack .../16-libssh-4_0.10.6-2build2_arm64.deb ...
-Unpacking libssh-4:arm64 (0.10.6-2build2) ...
-Selecting previously unselected package libcurl4t64:arm64.
-Preparing to unpack .../17-libcurl4t64_8.5.0-2ubuntu10.6_arm64.deb ...
-Unpacking libcurl4t64:arm64 (8.5.0-2ubuntu10.6) ...
-Selecting previously unselected package curl.
-Preparing to unpack .../18-curl_8.5.0-2ubuntu10.6_arm64.deb ...
-Unpacking curl (8.5.0-2ubuntu10.6) ...
-Selecting previously unselected package libldap-common.
-Preparing to unpack .../19-libldap-common_2.6.7+dfsg-1~exp1ubuntu8.1_all.deb ...
-Unpacking libldap-common (2.6.7+dfsg-1~exp1ubuntu8.1) ...
-Selecting previously unselected package libsasl2-modules:arm64.
-Preparing to unpack .../20-libsasl2-modules_2.1.28+dfsg1-5ubuntu3.1_arm64.deb ...
-Unpacking libsasl2-modules:arm64 (2.1.28+dfsg1-5ubuntu3.1) ...
-Setting up libkeyutils1:arm64 (1.6.3-3build1) ...
-Setting up libbrotli1:arm64 (1.1.0-2build2) ...
-Setting up libsasl2-modules:arm64 (2.1.28+dfsg1-5ubuntu3.1) ...
-Setting up libpsl5t64:arm64 (0.21.2-1.1build1) ...
-Setting up libnghttp2-14:arm64 (1.59.0-1ubuntu0.1) ...
-Setting up krb5-locales (1.20.1-6ubuntu2.2) ...
-Setting up libldap-common (2.6.7+dfsg-1~exp1ubuntu8.1) ...
-Setting up libkrb5support0:arm64 (1.20.1-6ubuntu2.2) ...
-Setting up libsasl2-modules-db:arm64 (2.1.28+dfsg1-5ubuntu3.1) ...
-Setting up librtmp1:arm64 (2.4+20151223.gitfa8646d.1-2build7) ...
-Setting up libk5crypto3:arm64 (1.20.1-6ubuntu2.2) ...
-Setting up libsasl2-2:arm64 (2.1.28+dfsg1-5ubuntu3.1) ...
-Setting up libkrb5-3:arm64 (1.20.1-6ubuntu2.2) ...
-Setting up openssl (3.0.13-0ubuntu3.4) ...
-Setting up publicsuffix (20231001.0357-0.1) ...
-Setting up libldap2:arm64 (2.6.7+dfsg-1~exp1ubuntu8.1) ...
-Setting up ca-certificates (20240203) ...
-debconf: unable to initialize frontend: Dialog
-debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
-debconf: falling back to frontend: Readline
-debconf: unable to initialize frontend: Readline
-debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/aarch64-linux-gnu/perl/5.38.2 /usr/local/share/perl/5.38.2 /usr/lib/aarch64-linux-gnu/perl5/5.38 /usr/share/perl5 /usr/lib/aarch64-linux-gnu/perl-base /usr/lib/aarch64-linux-gnu/perl/5.38 /usr/share/perl/5.38 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
-debconf: falling back to frontend: Teletype
-Updating certificates in /etc/ssl/certs...
-146 added, 0 removed; done.
-Setting up libgssapi-krb5-2:arm64 (1.20.1-6ubuntu2.2) ...
-Setting up libssh-4:arm64 (0.10.6-2build2) ...
-Setting up libcurl4t64:arm64 (8.5.0-2ubuntu10.6) ...
-Setting up curl (8.5.0-2ubuntu10.6) ...
-Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
-Processing triggers for ca-certificates (20240203) ...
-Updating certificates in /etc/ssl/certs...
-0 added, 0 removed; done.
-Running hooks in /etc/ca-certificates/update.d...
-done.
-[?2004h]0;root@67a4518f75e3: /root@67a4518f75e3:/# [7mcurl -sL https://deb.nodesource.com/setup_20.x | bash[27m]0;root@67a4518f75e3: /root@67a4518f75e3:/# curl -sL https://deb.nodesource.com/setup_20.x | bash
-[?2004l[38;5;79m2025-01-05 02:47:03 - Installing pre-requisites[0m
-0% [Working]            Hit:1 http://ports.ubuntu.com/ubuntu-ports noble InRelease
-0% [Waiting for headers]0% [Waiting for headers]                        Hit:2 http://ports.ubuntu.com/ubuntu-ports noble-updates InRelease
-                        0% [Working]0% [Waiting for headers]                        Hit:3 http://ports.ubuntu.com/ubuntu-ports noble-backports InRelease
-                        0% [Working]0% [Waiting for headers]                        Hit:4 http://ports.ubuntu.com/ubuntu-ports noble-security InRelease
-                        0% [Working]20% [Working]             Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 6%Reading package lists... 6%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 75%Reading package lists... 75%Reading package lists... 79%Reading package lists... 79%Reading package lists... 85%Reading package lists... 85%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 91%Reading package lists... 91%Reading package lists... 96%Reading package lists... 96%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
-Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 6%Reading package lists... 6%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 75%Reading package lists... 75%Reading package lists... 79%Reading package lists... 79%Reading package lists... 85%Reading package lists... 85%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 91%Reading package lists... 91%Reading package lists... 96%Reading package lists... 96%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
-Reading state information... 0% Reading state information... 4%Reading state information... Done
-ca-certificates is already the newest version (20240203).
-ca-certificates set to manually installed.
-curl is already the newest version (8.5.0-2ubuntu10.6).
-The following additional packages will be installed:
-  adduser dirmngr gnupg-l10n gnupg-utils gpg gpg-agent gpg-wks-client gpgconf gpgsm keyboxd libksba8
-  libreadline8t64 libsqlite3-0 pinentry-curses readline-common
-Suggested packages:
-  liblocale-gettext-perl perl cron quota ecryptfs-utils dbus-user-session libpam-systemd pinentry-gnome3
-  tor parcimonie xloadimage gpg-wks-server scdaemon pinentry-doc readline-doc
-The following NEW packages will be installed:
-  adduser apt-transport-https dirmngr gnupg gnupg-l10n gnupg-utils gpg gpg-agent gpg-wks-client gpgconf
-  gpgsm keyboxd libksba8 libreadline8t64 libsqlite3-0 pinentry-curses readline-common
-0 upgraded, 17 newly installed, 0 to remove and 0 not upgraded.
-Need to get 3261 kB of archives.
-After this operation, 9023 kB of additional disk space will be used.
-0% [Working]            Get:1 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 adduser all 3.137ubuntu1 [101 kB]
-0% [1 adduser 13.9 kB/101 kB 14%]                                 4% [Working]            Get:2 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 readline-common all 8.2-4build1 [56.5 kB]
-4% [2 readline-common 5407 B/56.5 kB 10%]                                         Get:3 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 libreadline8t64 arm64 8.2-4build1 [153 kB]
-                                         6% [3 libreadline8t64 1254 B/153 kB 1%]                                       11% [Waiting for headers]                         Get:4 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 libsqlite3-0 arm64 3.45.1-1ubuntu2 [703 kB]
-11% [4 libsqlite3-0 2923 B/703 kB 0%]                                     30% [Waiting for headers]                         Get:5 http://ports.ubuntu.com/ubuntu-ports noble/universe arm64 apt-transport-https all 2.7.14build2 [3974 B]
-30% [5 apt-transport-https 3805 B/3974 B 96%]                                             31% [Working]             Get:6 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 gpgconf arm64 2.4.4-2ubuntu17 [103 kB]
-31% [6 gpgconf 8080 B/103 kB 8%]                                Get:7 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 libksba8 arm64 1.6.6-1build1 [119 kB]
-35% [7 libksba8 9954 B/119 kB 8%]                                 Get:8 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 dirmngr arm64 2.4.4-2ubuntu17 [316 kB]
-39% [8 dirmngr 13.9 kB/316 kB 4%]                                 48% [Waiting for headers]                         Get:9 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 gnupg-utils arm64 2.4.4-2ubuntu17 [106 kB]
-48% [9 gnupg-utils 10.5 kB/106 kB 10%]                                      Get:10 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 gpg arm64 2.4.4-2ubuntu17 [548 kB]
-                                      51% [10 gpg 687 B/548 kB 0%]                            66% [Waiting for headers]                         Get:11 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 pinentry-curses arm64 1.2.1-3ubuntu5 [34.3 kB]
-67% [11 pinentry-curses 30.1 kB/34.3 kB 88%]                                            68% [Working]             Get:12 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 gpg-agent arm64 2.4.4-2ubuntu17 [221 kB]
-68% [12 gpg-agent 13.9 kB/221 kB 6%]                                    75% [Waiting for headers]                         Get:13 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 gpgsm arm64 2.4.4-2ubuntu17 [225 kB]
-75% [13 gpgsm 11.1 kB/225 kB 5%]                                Get:14 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 keyboxd arm64 2.4.4-2ubuntu17 [76.0 kB]
-81% [14 keyboxd 3595 B/76.0 kB 5%]                                  84% [Working]             Get:15 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 gnupg all 2.4.4-2ubuntu17 [359 kB]
-84% [15 gnupg 1145 B/359 kB 0%]                               Get:16 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 gnupg-l10n all 2.4.4-2ubuntu17 [65.9 kB]
-95% [16 gnupg-l10n 23.1 kB/65.9 kB 35%]                                       97% [Waiting for headers]                         Get:17 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 gpg-wks-client arm64 2.4.4-2ubuntu17 [69.7 kB]
-97% [17 gpg-wks-client 13.9 kB/69.7 kB 20%]                                           100% [Working]              Fetched 3261 kB in 2s (1761 kB/s)
-debconf: delaying package configuration, since apt-utils is not installed
-Selecting previously unselected package adduser.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 5080 files and directories currently installed.)
-Preparing to unpack .../adduser_3.137ubuntu1_all.deb ...
-Unpacking adduser (3.137ubuntu1) ...
-Setting up adduser (3.137ubuntu1) ...
-Selecting previously unselected package readline-common.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 5128 files and directories currently installed.)
-Preparing to unpack .../00-readline-common_8.2-4build1_all.deb ...
-Unpacking readline-common (8.2-4build1) ...
-Selecting previously unselected package libreadline8t64:arm64.
-Preparing to unpack .../01-libreadline8t64_8.2-4build1_arm64.deb ...
-Adding 'diversion of /lib/aarch64-linux-gnu/libhistory.so.8 to /lib/aarch64-linux-gnu/libhistory.so.8.usr-is-merged by libreadline8t64'
-Adding 'diversion of /lib/aarch64-linux-gnu/libhistory.so.8.2 to /lib/aarch64-linux-gnu/libhistory.so.8.2.usr-is-merged by libreadline8t64'
-Adding 'diversion of /lib/aarch64-linux-gnu/libreadline.so.8 to /lib/aarch64-linux-gnu/libreadline.so.8.usr-is-merged by libreadline8t64'
-Adding 'diversion of /lib/aarch64-linux-gnu/libreadline.so.8.2 to /lib/aarch64-linux-gnu/libreadline.so.8.2.usr-is-merged by libreadline8t64'
-Unpacking libreadline8t64:arm64 (8.2-4build1) ...
-Selecting previously unselected package libsqlite3-0:arm64.
-Preparing to unpack .../02-libsqlite3-0_3.45.1-1ubuntu2_arm64.deb ...
-Unpacking libsqlite3-0:arm64 (3.45.1-1ubuntu2) ...
-Selecting previously unselected package apt-transport-https.
-Preparing to unpack .../03-apt-transport-https_2.7.14build2_all.deb ...
-Unpacking apt-transport-https (2.7.14build2) ...
-Selecting previously unselected package gpgconf.
-Preparing to unpack .../04-gpgconf_2.4.4-2ubuntu17_arm64.deb ...
-Unpacking gpgconf (2.4.4-2ubuntu17) ...
-Selecting previously unselected package libksba8:arm64.
-Preparing to unpack .../05-libksba8_1.6.6-1build1_arm64.deb ...
-Unpacking libksba8:arm64 (1.6.6-1build1) ...
-Selecting previously unselected package dirmngr.
-Preparing to unpack .../06-dirmngr_2.4.4-2ubuntu17_arm64.deb ...
-Unpacking dirmngr (2.4.4-2ubuntu17) ...
-Selecting previously unselected package gnupg-utils.
-Preparing to unpack .../07-gnupg-utils_2.4.4-2ubuntu17_arm64.deb ...
-Unpacking gnupg-utils (2.4.4-2ubuntu17) ...
-Selecting previously unselected package gpg.
-Preparing to unpack .../08-gpg_2.4.4-2ubuntu17_arm64.deb ...
-Unpacking gpg (2.4.4-2ubuntu17) ...
-Selecting previously unselected package pinentry-curses.
-Preparing to unpack .../09-pinentry-curses_1.2.1-3ubuntu5_arm64.deb ...
-Unpacking pinentry-curses (1.2.1-3ubuntu5) ...
-Selecting previously unselected package gpg-agent.
-Preparing to unpack .../10-gpg-agent_2.4.4-2ubuntu17_arm64.deb ...
-Unpacking gpg-agent (2.4.4-2ubuntu17) ...
-Selecting previously unselected package gpgsm.
-Preparing to unpack .../11-gpgsm_2.4.4-2ubuntu17_arm64.deb ...
-Unpacking gpgsm (2.4.4-2ubuntu17) ...
-Selecting previously unselected package keyboxd.
-Preparing to unpack .../12-keyboxd_2.4.4-2ubuntu17_arm64.deb ...
-Unpacking keyboxd (2.4.4-2ubuntu17) ...
-Selecting previously unselected package gnupg.
-Preparing to unpack .../13-gnupg_2.4.4-2ubuntu17_all.deb ...
-Unpacking gnupg (2.4.4-2ubuntu17) ...
-Selecting previously unselected package gnupg-l10n.
-Preparing to unpack .../14-gnupg-l10n_2.4.4-2ubuntu17_all.deb ...
-Unpacking gnupg-l10n (2.4.4-2ubuntu17) ...
-Selecting previously unselected package gpg-wks-client.
-Preparing to unpack .../15-gpg-wks-client_2.4.4-2ubuntu17_arm64.deb ...
-Unpacking gpg-wks-client (2.4.4-2ubuntu17) ...
-Setting up libksba8:arm64 (1.6.6-1build1) ...
-Setting up pinentry-curses (1.2.1-3ubuntu5) ...
-Setting up apt-transport-https (2.7.14build2) ...
-Setting up libsqlite3-0:arm64 (3.45.1-1ubuntu2) ...
-Setting up gnupg-l10n (2.4.4-2ubuntu17) ...
-Setting up readline-common (8.2-4build1) ...
-Setting up gnupg-utils (2.4.4-2ubuntu17) ...
-Setting up libreadline8t64:arm64 (8.2-4build1) ...
-Setting up gpgconf (2.4.4-2ubuntu17) ...
-Setting up gpg (2.4.4-2ubuntu17) ...
-Setting up gpg-agent (2.4.4-2ubuntu17) ...
-Setting up gpgsm (2.4.4-2ubuntu17) ...
-Setting up dirmngr (2.4.4-2ubuntu17) ...
-Setting up keyboxd (2.4.4-2ubuntu17) ...
-Setting up gnupg (2.4.4-2ubuntu17) ...
-Setting up gpg-wks-client (2.4.4-2ubuntu17) ...
-Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
-0% [Working]            Get:1 https://deb.nodesource.com/node_20.x nodistro InRelease [12.1 kB]
-0% [1 InRelease 12.1 kB/12.1 kB 100%] [Connecting to ports.ubuntu.com (185.125.190.36)]                                                                                       0% [Connecting to ports.ubuntu.com (185.125.190.36)]                                                    0% [Waiting for headers]                        Hit:2 http://ports.ubuntu.com/ubuntu-ports noble InRelease
-0% [Waiting for headers]                        Get:3 https://deb.nodesource.com/node_20.x nodistro/main arm64 Packages [9788 B]
-0% [3 Packages 9788 B/9788 B 100%] [Waiting for headers]                                                        0% [Waiting for headers]0% [Waiting for headers]0% [Waiting for headers]                        Hit:4 http://ports.ubuntu.com/ubuntu-ports noble-updates InRelease
-                        0% [Working]0% [Waiting for headers]                        Hit:5 http://ports.ubuntu.com/ubuntu-ports noble-backports InRelease
-                        0% [Working]0% [Waiting for headers]                        Hit:6 http://ports.ubuntu.com/ubuntu-ports noble-security InRelease
-                        0% [Working]100% [Working]              Fetched 21.9 kB in 0s (48.7 kB/s)
-Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 6%Reading package lists... 6%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 75%Reading package lists... 75%Reading package lists... 79%Reading package lists... 79%Reading package lists... 85%Reading package lists... 85%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 91%Reading package lists... 91%Reading package lists... 96%Reading package lists... 96%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
-[1;34m2025-01-05 02:47:08 - Repository configured successfully.[0m
-[38;5;79m2025-01-05 02:47:08 - To install Node.js, run: apt-get install nodejs -y[0m
-[38;5;79m2025-01-05 02:47:08 - You can use N|solid Runtime as a node.js alternative[0m
-[1;32m2025-01-05 02:47:08 - To install N|solid Runtime, run: apt-get install nsolid -y 
-[0m
-[?2004h]0;root@67a4518f75e3: /root@67a4518f75e3:/# [K[7mapt install -y nodejs[27mapt install -y nodejs
-[?2004lReading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 6%Reading package lists... 6%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 74%Reading package lists... 75%Reading package lists... 75%Reading package lists... 79%Reading package lists... 79%Reading package lists... 85%Reading package lists... 85%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 88%Reading package lists... 91%Reading package lists... 91%Reading package lists... 96%Reading package lists... 96%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
-Reading state information... 0% Reading state information... 2%Reading state information... Done
-The following additional packages will be installed:
-  libexpat1 libpython3-stdlib libpython3.12-minimal libpython3.12-stdlib media-types netbase python3
-  python3-minimal python3.12 python3.12-minimal tzdata
-Suggested packages:
-  python3-doc python3-tk python3-venv python3.12-venv python3.12-doc binutils binfmt-support
-The following NEW packages will be installed:
-  libexpat1 libpython3-stdlib libpython3.12-minimal libpython3.12-stdlib media-types netbase nodejs
-  python3 python3-minimal python3.12 python3.12-minimal tzdata
-0 upgraded, 12 newly installed, 0 to remove and 0 not upgraded.
-Need to get 37.1 MB of archives.
-After this operation, 222 MB of additional disk space will be used.
-[33m0% [Working][0m            Get:1 https://deb.nodesource.com/node_20.x nodistro/main arm64 nodejs arm64 20.18.1-1nodesource1 [30.9 MB]
-[33m0% [Connecting to ports.ubuntu.com (185.125.190.36)] [1 nodejs 30.9 kB/30.9 MB 0%][0m                                                                                  Get:2 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libpython3.12-minimal arm64 3.12.3-1ubuntu0.3 [831 kB]
-[33m                                                                                  6% [2 libpython3.12-minimal 13.9 kB/831 kB 2%] [1 nodejs 2915 kB/30.9 MB 9%][0m[33m48% [2 libpython3.12-minimal 222 kB/831 kB 27%] [1 nodejs 22.1 MB/30.9 MB 72%][0m[33m                                                                              69% [2 libpython3.12-minimal 564 kB/831 kB 68%][0m[33m                                               72% [Working][0m             Get:3 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libexpat1 arm64 2.6.1-2ubuntu0.2 [76.4 kB]
-[33m72% [3 libexpat1 13.9 kB/76.4 kB 18%][0m                                     Get:4 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 python3.12-minimal arm64 3.12.3-1ubuntu0.3 [2254 kB]
-[33m74% [4 python3.12-minimal 7110 B/2254 kB 0%][0m                                            Get:5 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 python3-minimal arm64 3.12.3-0ubuntu2 [27.4 kB]
-[33m80% [5 python3-minimal 27.4 kB/27.4 kB 100%][0m[33m                                            82% [Waiting for headers][0m                         Get:6 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 media-types all 10.1.0 [27.5 kB]
-[33m82% [6 media-types 20.6 kB/27.5 kB 75%][0m[33m                                       84% [Waiting for headers][0m                         Get:7 http://ports.ubuntu.com/ubuntu-ports noble/main arm64 netbase all 6.4 [13.1 kB]
-[33m85% [Waiting for headers][0m                         Get:8 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 tzdata all 2024a-3ubuntu1.1 [273 kB]
-[33m85% [8 tzdata 45.0 kB/273 kB 16%][0m[33m                                 87% [Waiting for headers][0m                         Get:9 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libpython3.12-stdlib arm64 3.12.3-1ubuntu0.3 [2037 kB]
-[33m87% [9 libpython3.12-stdlib 12.1 kB/2037 kB 1%][0m[33m                                               94% [Waiting for headers][0m                         Get:10 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 python3.12 arm64 3.12.3-1ubuntu0.3 [651 kB]
-[33m94% [10 python3.12 27.6 kB/651 kB 4%][0m[33m                                     97% [Waiting for headers][0m                         Get:11 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libpython3-stdlib arm64 3.12.3-0ubuntu2 [10.0 kB]
-[33m97% [11 libpython3-stdlib 10.0 kB/10.0 kB 100%][0m[33m                                               98% [Waiting for headers][0m                         Get:12 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 python3 arm64 3.12.3-0ubuntu2 [23.0 kB]
-[33m98% [12 python3 21.6 kB/23.0 kB 94%][0m[33m                                    100% [Working][0m              Fetched 37.1 MB in 2s (23.1 MB/s)
-debconf: delaying package configuration, since apt-utils is not installed
+[1m[7m%[27m[1m[0m                                                                                                     [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004heexit[?2004l
 
-7[0;12r8[1ASelecting previously unselected package libpython3.12-minimal:arm64.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 5362 files and directories currently installed.)
-Preparing to unpack .../libpython3.12-minimal_3.12.3-1ubuntu0.3_arm64.deb ...
-7[13;0f[42m[30mProgress: [  0%][49m[39m [.....................................................................................] 87[13;0f[42m[30mProgress: [  2%][49m[39m [#....................................................................................] 8Unpacking libpython3.12-minimal:arm64 (3.12.3-1ubuntu0.3) ...
-7[13;0f[42m[30mProgress: [  4%][49m[39m [###..................................................................................] 8Selecting previously unselected package libexpat1:arm64.
-Preparing to unpack .../libexpat1_2.6.1-2ubuntu0.2_arm64.deb ...
-7[13;0f[42m[30mProgress: [  6%][49m[39m [#####................................................................................] 8Unpacking libexpat1:arm64 (2.6.1-2ubuntu0.2) ...
-7[13;0f[42m[30mProgress: [  8%][49m[39m [######...............................................................................] 8Selecting previously unselected package python3.12-minimal.
-Preparing to unpack .../python3.12-minimal_3.12.3-1ubuntu0.3_arm64.deb ...
-7[13;0f[42m[30mProgress: [ 10%][49m[39m [########.............................................................................] 8Unpacking python3.12-minimal (3.12.3-1ubuntu0.3) ...
-7[13;0f[42m[30mProgress: [ 12%][49m[39m [##########...........................................................................] 8Setting up libpython3.12-minimal:arm64 (3.12.3-1ubuntu0.3) ...
-7[13;0f[42m[30mProgress: [ 14%][49m[39m [############.........................................................................] 87[13;0f[42m[30mProgress: [ 16%][49m[39m [#############........................................................................] 8Setting up libexpat1:arm64 (2.6.1-2ubuntu0.2) ...
-7[13;0f[42m[30mProgress: [ 18%][49m[39m [###############......................................................................] 87[13;0f[42m[30mProgress: [ 20%][49m[39m [#################....................................................................] 8Setting up python3.12-minimal (3.12.3-1ubuntu0.3) ...
-7[13;0f[42m[30mProgress: [ 22%][49m[39m [###################..................................................................] 87[13;0f[42m[30mProgress: [ 24%][49m[39m [####################.................................................................] 8Selecting previously unselected package python3-minimal.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 5681 files and directories currently installed.)
-Preparing to unpack .../0-python3-minimal_3.12.3-0ubuntu2_arm64.deb ...
-7[13;0f[42m[30mProgress: [ 27%][49m[39m [######################...............................................................] 8Unpacking python3-minimal (3.12.3-0ubuntu2) ...
-7[13;0f[42m[30mProgress: [ 29%][49m[39m [########################.............................................................] 8Selecting previously unselected package media-types.
-Preparing to unpack .../1-media-types_10.1.0_all.deb ...
-7[13;0f[42m[30mProgress: [ 31%][49m[39m [##########################...........................................................] 8Unpacking media-types (10.1.0) ...
-7[13;0f[42m[30mProgress: [ 33%][49m[39m [###########################..........................................................] 8Selecting previously unselected package netbase.
-Preparing to unpack .../2-netbase_6.4_all.deb ...
-7[13;0f[42m[30mProgress: [ 35%][49m[39m [#############################........................................................] 8Unpacking netbase (6.4) ...
-7[13;0f[42m[30mProgress: [ 37%][49m[39m [###############################......................................................] 8Selecting previously unselected package tzdata.
-Preparing to unpack .../3-tzdata_2024a-3ubuntu1.1_all.deb ...
-7[13;0f[42m[30mProgress: [ 39%][49m[39m [################################.....................................................] 8Unpacking tzdata (2024a-3ubuntu1.1) ...
-7[13;0f[42m[30mProgress: [ 41%][49m[39m [##################################...................................................] 8Selecting previously unselected package libpython3.12-stdlib:arm64.
-Preparing to unpack .../4-libpython3.12-stdlib_3.12.3-1ubuntu0.3_arm64.deb ...
-7[13;0f[42m[30mProgress: [ 43%][49m[39m [####################################.................................................] 8Unpacking libpython3.12-stdlib:arm64 (3.12.3-1ubuntu0.3) ...
-7[13;0f[42m[30mProgress: [ 45%][49m[39m [######################################...............................................] 8Selecting previously unselected package python3.12.
-Preparing to unpack .../5-python3.12_3.12.3-1ubuntu0.3_arm64.deb ...
-7[13;0f[42m[30mProgress: [ 47%][49m[39m [#######################################..............................................] 8Unpacking python3.12 (3.12.3-1ubuntu0.3) ...
-7[13;0f[42m[30mProgress: [ 49%][49m[39m [#########################################............................................] 8Selecting previously unselected package libpython3-stdlib:arm64.
-Preparing to unpack .../6-libpython3-stdlib_3.12.3-0ubuntu2_arm64.deb ...
-7[13;0f[42m[30mProgress: [ 51%][49m[39m [###########################################..........................................] 8Unpacking libpython3-stdlib:arm64 (3.12.3-0ubuntu2) ...
-7[13;0f[42m[30mProgress: [ 53%][49m[39m [#############################################........................................] 8Setting up python3-minimal (3.12.3-0ubuntu2) ...
-7[13;0f[42m[30mProgress: [ 55%][49m[39m [##############################################.......................................] 87[13;0f[42m[30mProgress: [ 57%][49m[39m [################################################.....................................] 8Selecting previously unselected package python3.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 6650 files and directories currently installed.)
-Preparing to unpack .../python3_3.12.3-0ubuntu2_arm64.deb ...
-7[13;0f[42m[30mProgress: [ 59%][49m[39m [##################################################...................................] 8Unpacking python3 (3.12.3-0ubuntu2) ...
-7[13;0f[42m[30mProgress: [ 61%][49m[39m [####################################################.................................] 8Selecting previously unselected package nodejs.
-Preparing to unpack .../nodejs_20.18.1-1nodesource1_arm64.deb ...
-7[13;0f[42m[30mProgress: [ 63%][49m[39m [#####################################################................................] 8Unpacking nodejs (20.18.1-1nodesource1) ...
-7[13;0f[42m[30mProgress: [ 65%][49m[39m [#######################################################..............................] 8Setting up media-types (10.1.0) ...
-7[13;0f[42m[30mProgress: [ 67%][49m[39m [#########################################################............................] 87[13;0f[42m[30mProgress: [ 69%][49m[39m [##########################################################...........................] 8Setting up tzdata (2024a-3ubuntu1.1) ...
-7[13;0f[42m[30mProgress: [ 71%][49m[39m [############################################################.........................] 8debconf: unable to initialize frontend: Dialog
-debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 79.)
-debconf: falling back to frontend: Readline
-debconf: unable to initialize frontend: Readline
-debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC entries checked: /etc/perl /usr/local/lib/aarch64-linux-gnu/perl/5.38.2 /usr/local/share/perl/5.38.2 /usr/lib/aarch64-linux-gnu/perl5/5.38 /usr/share/perl5 /usr/lib/aarch64-linux-gnu/perl-base /usr/lib/aarch64-linux-gnu/perl/5.38 /usr/share/perl/5.38 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 8.)
-debconf: falling back to frontend: Teletype
-Configuring tzdata
-------------------
-
-Please select the geographic area in which you live. Subsequent configuration questions will narrow this
-down by presenting a list of cities, representing the time zones in which they are located.
-
-  1. Africa   3. Antarctica  5. Asia      7. Australia  9. Indian    11. Etc
-  2. America  4. Arctic      6. Atlantic  8. Europe     10. Pacific
-Geographic area: 2
-
-Please select the city or region corresponding to your time zone.
-
-  1. Adak                     40. Coral_Harbour         79. Juneau                   118. Port-au-Prince
-  2. Anchorage                41. Costa_Rica            80. Kentucky/Louisville      119. Port_of_Spain
-  3. Anguilla                 42. Creston               81. Kentucky/Monticello      120. Porto_Acre
-  4. Antigua                  43. Cuiaba                82. Kralendijk               121. Porto_Velho
-  5. Araguaina                44. Curacao               83. La_Paz                   122. Puerto_Rico
-  6. Argentina/Buenos_Aires   45. Danmarkshavn          84. Lima                     123. Punta_Arenas
-  7. Argentina/Catamarca      46. Dawson                85. Los_Angeles              124. Rainy_River
-[More] 
-
-  8. Argentina/Cordoba        47. Dawson_Creek          86. Lower_Princes            125. Rankin_Inlet
-  9. Argentina/Jujuy          48. Denver                87. Maceio                   126. Recife
-  10. Argentina/La_Rioja      49. Detroit               88. Managua                  127. Regina
-  11. Argentina/Mendoza       50. Dominica              89. Manaus                   128. Resolute
-  12. Argentina/Rio_Gallegos  51. Edmonton              90. Marigot                  129. Rio_Branco
-  13. Argentina/Salta         52. Eirunepe              91. Martinique               130. Santa_Isabel
-  14. Argentina/San_Juan      53. El_Salvador           92. Matamoros                131. Santarem
-  15. Argentina/San_Luis      54. Ensenada              93. Mazatlan                 132. Santiago
-  16. Argentina/Tucuman       55. Fort_Nelson           94. Menominee                133. Santo_Domingo
-  17. Argentina/Ushuaia       56. Fortaleza             95. Merida                   134. Sao_Paulo
-[More] 
-
-  18. Aruba                   57. Glace_Bay             96. Metlakatla               135. Scoresbysund
-  19. Asuncion                58. Goose_Bay             97. Mexico_City              136. Shiprock
-  20. Atikokan                59. Grand_Turk            98. Miquelon                 137. Sitka
-  21. Atka                    60. Grenada               99. Moncton                  138. St_Barthelemy
-  22. Bahia                   61. Guadeloupe            100. Monterrey               139. St_Johns
-  23. Bahia_Banderas          62. Guatemala             101. Montevideo              140. St_Kitts
-  24. Barbados                63. Guayaquil             102. Montreal                141. St_Lucia
-  25. Belem                   64. Guyana                103. Montserrat              142. St_Thomas
-  26. Belize                  65. Halifax               104. Nassau                  143. St_Vincent
-  27. Blanc-Sablon            66. Havana                105. New_York                144. Swift_Current
-[More] 
-
-  28. Boa_Vista               67. Hermosillo            106. Nipigon                 145. Tegucigalpa
-  29. Bogota                  68. Indiana/Indianapolis  107. Nome                    146. Thule
-  30. Boise                   69. Indiana/Knox          108. Noronha                 147. Thunder_Bay
-  31. Cambridge_Bay           70. Indiana/Marengo       109. North_Dakota/Beulah     148. Tijuana
-  32. Campo_Grande            71. Indiana/Petersburg    110. North_Dakota/Center     149. Toronto
-  33. Cancun                  72. Indiana/Tell_City     111. North_Dakota/New_Salem  150. Tortola
-  34. Caracas                 73. Indiana/Vevay         112. Nuuk                    151. Vancouver
-  35. Cayenne                 74. Indiana/Vincennes     113. Ojinaga                 152. Virgin
-  36. Cayman                  75. Indiana/Winamac       114. Panama                  153. Whitehorse
-  37. Chicago                 76. Inuvik                115. Pangnirtung             154. Winnipeg
-[More] 149
-
-  38. Chihuahua               77. Iqaluit               116. Paramaribo              155. Yakutat
-  39. Ciudad_Juarez           78. Jamaica               117. Phoenix                 156. Yellowknife
-Time zone: 149
-
-
-Current default time zone: 'America/Toronto'
-Local time is now:      Sat Jan  4 21:49:10 EST 2025.
-Universal Time is now:  Sun Jan  5 02:49:10 UTC 2025.
-Run 'dpkg-reconfigure tzdata' if you wish to change it.
-
-7[13;0f[42m[30mProgress: [ 73%][49m[39m [##############################################################.......................] 8Setting up netbase (6.4) ...
-7[13;0f[42m[30mProgress: [ 76%][49m[39m [################################################################.....................] 87[13;0f[42m[30mProgress: [ 78%][49m[39m [#################################################################....................] 8Setting up libpython3.12-stdlib:arm64 (3.12.3-1ubuntu0.3) ...
-7[13;0f[42m[30mProgress: [ 80%][49m[39m [###################################################################..................] 87[13;0f[42m[30mProgress: [ 82%][49m[39m [#####################################################################................] 8Setting up python3.12 (3.12.3-1ubuntu0.3) ...
-7[13;0f[42m[30mProgress: [ 84%][49m[39m [#######################################################################..............] 87[13;0f[42m[30mProgress: [ 86%][49m[39m [########################################################################.............] 8Setting up libpython3-stdlib:arm64 (3.12.3-0ubuntu2) ...
-7[13;0f[42m[30mProgress: [ 88%][49m[39m [##########################################################################...........] 87[13;0f[42m[30mProgress: [ 90%][49m[39m [############################################################################.........] 8Setting up python3 (3.12.3-0ubuntu2) ...
-7[13;0f[42m[30mProgress: [ 92%][49m[39m [##############################################################################.......] 8running python rtupdate hooks for python3.12...
-running python post-rtupdate hooks for python3.12...
-7[13;0f[42m[30mProgress: [ 94%][49m[39m [###############################################################################......] 8Setting up nodejs (20.18.1-1nodesource1) ...
-7[13;0f[42m[30mProgress: [ 96%][49m[39m [#################################################################################....] 87[13;0f[42m[30mProgress: [ 98%][49m[39m [###################################################################################..] 8Processing triggers for libc-bin (2.39-0ubuntu8.3) ...
-
-7[0;13r8[1A[J[?2004h]0;root@67a4518f75e3: /root@67a4518f75e3:/# [7mnode /usr/src/app/index.js[27mnode /usr/src/app/index.js
-[?2004lHello World
-[?2004h]0;root@67a4518f75e3: /root@67a4518f75e3:/# [Kexit
-[?2004lexit
-[1m[7m%[27m[1m[0m                                                                                                           [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004hcclear] =   ar[?2004l
-[3J[H[2J[1m[7m%[27m[1m[0m                                                                                                           [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004httouch index.js\ [?2004l
-[1m[7m%[27m[1m[0m                                                                                                           [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004hcclear[?2004l
-[3J[H[2J[1m[7m%[27m[1m[0m                                                                                                           [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004hclear     [7m$ docker container run -it --name hello-node node:20 bash[27m[57D[27m$[27m [27md[27mo[27mc[27mk[27me[27mr[27m [27mc[27mo[27mn[27mt[27ma[27mi[27mn[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27m-[27m-[27mn[27ma[27mm[27me[27m [27mh[27me[27ml[27ml[27mo[27m-[27mn[27mo[27md[27me[27m [27mn[27mo[27md[27me[27m:[27m2[27m0[27m [27mb[27ma[27ms[27mh[?2004l
-zsh: command not found: $
-[1m[7m%[27m[1m[0m                                                                                                           [0m[27m[24m[Jelo@Elos-MBP part12-containers-applications % [K[?2004h$ docker container run -it --name hello-node node:20 bash$[P[55C [56D[P[55C [56D[?2004l
-Unable to find image 'node:20' locally
-20: Pulling from library/node
-
-[1A[2Kba1dd0e85e0b: Pulling fs layer [1B
-[1A[2K92b12b0dccf2: Pulling fs layer [1B
-[1A[2Kfd63102cac36: Pulling fs layer [1B
-[1A[2K8e5e0e9e68b5: Pulling fs layer [1B
-[1A[2Kf9c5a973b5c3: Pulling fs layer [1B
-[1A[2K95ef6d101a72: Pulling fs layer [1B
-[1A[2K676d989fa12f: Pulling fs layer [1B
-[1A[2Ke3b34c2de4c2: Pulling fs layer [1B[4A[2Kf9c5a973b5c3: Waiting [4B[3A[2K95ef6d101a72: Waiting [3B[1A[2Ke3b34c2de4c2: Waiting [1B[2A[2K676d989fa12f: Waiting [2B[7A[2K92b12b0dccf2: Downloading    245kB/23.41MB[7B[8A[2Kba1dd0e85e0b: Downloading  489.7kB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  527.6kB/64.35MB[6B[7A[2K92b12b0dccf2: Downloading  1.477MB/23.41MB[7B[8A[2Kba1dd0e85e0b: Downloading  2.452MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading   2.12MB/64.35MB[6B[7A[2K92b12b0dccf2: Downloading  2.943MB/23.41MB[7B[6A[2Kfd63102cac36: Downloading  3.734MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Downloading  4.889MB/48.33MB[8B[7A[2K92b12b0dccf2: Downloading  4.414MB/23.41MB[7B[6A[2Kfd63102cac36: Downloading  5.872MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Downloading  7.342MB/48.33MB[8B[7A[2K92b12b0dccf2: Downloading  6.376MB/23.41MB[7B[6A[2Kfd63102cac36: Downloading  7.482MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Downloading  9.292MB/48.33MB[8B[7A[2K92b12b0dccf2: Downloading  8.088MB/23.41MB[7B[6A[2Kfd63102cac36: Downloading  9.095MB/64.35MB[6B[7A[2K92b12b0dccf2: Downloading  9.562MB/23.41MB[7B[8A[2Kba1dd0e85e0b: Downloading  11.75MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  10.71MB/64.35MB[6B[7A[2K92b12b0dccf2: Downloading  11.02MB/23.41MB[7B[8A[2Kba1dd0e85e0b: Downloading  14.22MB/48.33MB[8B[7A[2K92b12b0dccf2: Downloading  12.99MB/23.41MB[7B[6A[2Kfd63102cac36: Downloading  12.85MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Downloading  16.66MB/48.33MB[8B[7A[2K92b12b0dccf2: Downloading   14.7MB/23.41MB[7B[8A[2Kba1dd0e85e0b: Downloading  19.12MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  14.97MB/64.35MB[6B[7A[2K92b12b0dccf2: Downloading  16.65MB/23.41MB[7B[8A[2Kba1dd0e85e0b: Downloading  21.57MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  16.57MB/64.35MB[6B[7A[2K92b12b0dccf2: Downloading  17.63MB/23.41MB[7B[8A[2Kba1dd0e85e0b: Downloading  23.03MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  17.64MB/64.35MB[6B[7A[2K92b12b0dccf2: Downloading  18.36MB/23.41MB[7B[8A[2Kba1dd0e85e0b: Downloading  24.01MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  18.72MB/64.35MB[6B[7A[2K92b12b0dccf2: Downloading  20.31MB/23.41MB[7B[8A[2Kba1dd0e85e0b: Downloading  26.46MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  20.86MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Downloading  28.91MB/48.33MB[8B[7A[2K92b12b0dccf2: Downloading  21.77MB/23.41MB[7B[6A[2Kfd63102cac36: Downloading  22.48MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Downloading  30.38MB/48.33MB[8B[7A[2K92b12b0dccf2: Downloading  22.99MB/23.41MB[7B[6A[2Kfd63102cac36: Downloading  23.56MB/64.35MB[6B[7A[2K92b12b0dccf2: Verifying Checksum [7B[7A[2K92b12b0dccf2: Download complete [7B[6A[2Kfd63102cac36: Downloading  24.09MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Downloading  31.86MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  27.31MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Downloading  36.74MB/48.33MB[8B[8A[2Kba1dd0e85e0b: Downloading  39.18MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  28.93MB/64.35MB[6B[6A[2Kfd63102cac36: Downloading  31.09MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Downloading  42.62MB/48.33MB[8B[8A[2Kba1dd0e85e0b: Downloading  45.58MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  33.23MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Downloading  48.03MB/48.33MB[8B[8A[2Kba1dd0e85e0b: Verifying Checksum [8B[8A[2Kba1dd0e85e0b: Download complete [8B[6A[2Kfd63102cac36: Downloading  34.84MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  539.9kB/202.7MB[5B[8A[2Kba1dd0e85e0b: Extracting  491.5kB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  36.97MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  1.621MB/202.7MB[5B[8A[2Kba1dd0e85e0b: Extracting  6.881MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  39.11MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  4.811MB/202.7MB[5B[8A[2Kba1dd0e85e0b: Extracting  10.81MB/48.33MB[8B[4A[2Kf9c5a973b5c3: Downloading     720B/3.321kB[4B[4A[2Kf9c5a973b5c3: Downloading  3.321kB/3.321kB[4B[4A[2Kf9c5a973b5c3: Verifying Checksum [4B[4A[2Kf9c5a973b5c3: Download complete [4B[6A[2Kfd63102cac36: Downloading  41.25MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  7.498MB/202.7MB[5B[8A[2Kba1dd0e85e0b: Extracting  17.69MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  44.46MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  10.16MB/202.7MB[5B[6A[2Kfd63102cac36: Downloading  47.16MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Extracting   23.1MB/48.33MB[8B[5A[2K8e5e0e9e68b5: Downloading  13.92MB/202.7MB[5B[6A[2Kfd63102cac36: Downloading  49.84MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Extracting  25.56MB/48.33MB[8B[5A[2K8e5e0e9e68b5: Downloading   16.6MB/202.7MB[5B[8A[2Kba1dd0e85e0b: Extracting  30.47MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  51.46MB/64.35MB[6B[8A[2Kba1dd0e85e0b: Extracting  35.39MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  52.52MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  19.27MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  482.6kB/48.19MB[3B[8A[2Kba1dd0e85e0b: Extracting  39.32MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  55.73MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  22.47MB/202.7MB[5B[8A[2Kba1dd0e85e0b: Extracting  43.75MB/48.33MB[8B[3A[2K95ef6d101a72: Downloading  2.445MB/48.19MB[3B[6A[2Kfd63102cac36: Downloading  57.87MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  24.62MB/202.7MB[5B[8A[2Kba1dd0e85e0b: Extracting  45.71MB/48.33MB[8B[3A[2K95ef6d101a72: Downloading  2.935MB/48.19MB[3B[8A[2Kba1dd0e85e0b: Extracting  47.19MB/48.33MB[8B[5A[2K8e5e0e9e68b5: Downloading  25.16MB/202.7MB[5B[6A[2Kfd63102cac36: Downloading  58.94MB/64.35MB[6B[3A[2K95ef6d101a72: Downloading  3.914MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading   28.9MB/202.7MB[5B[8A[2Kba1dd0e85e0b: Extracting  47.68MB/48.33MB[8B[6A[2Kfd63102cac36: Downloading  61.08MB/64.35MB[6B[3A[2K95ef6d101a72: Downloading  4.889MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  31.03MB/202.7MB[5B[8A[2Kba1dd0e85e0b: Extracting  48.33MB/48.33MB[8B[8A[2Kba1dd0e85e0b: Pull complete [8B[7A[2K92b12b0dccf2: Extracting  262.1kB/23.41MB[7B[6A[2Kfd63102cac36: Downloading   62.7MB/64.35MB[6B[3A[2K95ef6d101a72: Downloading  6.372MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  33.19MB/202.7MB[5B[7A[2K92b12b0dccf2: Extracting  9.699MB/23.41MB[7B[6A[2Kfd63102cac36: Downloading  63.78MB/64.35MB[6B[3A[2K95ef6d101a72: Downloading  7.346MB/48.19MB[3B[7A[2K92b12b0dccf2: Extracting  18.09MB/23.41MB[7B[5A[2K8e5e0e9e68b5: Downloading  33.72MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading   7.83MB/48.19MB[3B[7A[2K92b12b0dccf2: Extracting  22.81MB/23.41MB[7B[5A[2K8e5e0e9e68b5: Downloading  36.93MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  9.788MB/48.19MB[3B[7A[2K92b12b0dccf2: Extracting  23.41MB/23.41MB[7B[7A[2K92b12b0dccf2: Pull complete [7B[5A[2K8e5e0e9e68b5: Downloading  41.21MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  11.26MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  44.44MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  12.74MB/48.19MB[3B[6A[2Kfd63102cac36: Downloading  64.31MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  47.68MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading   14.2MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  51.98MB/202.7MB[5B[6A[2Kfd63102cac36: Verifying Checksum [6B[6A[2Kfd63102cac36: Download complete [6B[6A[2Kfd63102cac36: Extracting  557.1kB/64.35MB[6B[3A[2K95ef6d101a72: Downloading  16.15MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  55.74MB/202.7MB[5B[6A[2Kfd63102cac36: Extracting  8.913MB/64.35MB[6B[3A[2K95ef6d101a72: Downloading  18.12MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading   59.5MB/202.7MB[5B[6A[2Kfd63102cac36: Extracting  14.48MB/64.35MB[6B[3A[2K95ef6d101a72: Downloading  20.08MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  64.33MB/202.7MB[5B[6A[2Kfd63102cac36: Extracting  18.38MB/64.35MB[6B[3A[2K95ef6d101a72: Downloading  21.56MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  67.52MB/202.7MB[5B[2A[2K676d989fa12f: Downloading  13.69kB/1.251MB[2B[6A[2Kfd63102cac36: Extracting  25.07MB/64.35MB[6B[2A[2K676d989fa12f: Downloading  651.3kB/1.251MB[2B[3A[2K95ef6d101a72: Downloading  23.53MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  71.27MB/202.7MB[5B[6A[2Kfd63102cac36: Extracting  32.87MB/64.35MB[6B[2A[2K676d989fa12f: Verifying Checksum [2B[2A[2K676d989fa12f: Download complete [2B[6A[2Kfd63102cac36: Extracting  36.21MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  76.09MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  25.98MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  77.18MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  26.47MB/48.19MB[3B[6A[2Kfd63102cac36: Extracting  40.11MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading   78.8MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  27.45MB/48.19MB[3B[6A[2Kfd63102cac36: Extracting  44.01MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  82.54MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  28.91MB/48.19MB[3B[6A[2Kfd63102cac36: Extracting  46.24MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  85.22MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  30.39MB/48.19MB[3B[6A[2Kfd63102cac36: Extracting  49.02MB/64.35MB[6B[1A[2Ke3b34c2de4c2: Downloading     447B/447B[1B[1A[2Ke3b34c2de4c2: Verifying Checksum [1B[1A[2Ke3b34c2de4c2: Download complete [1B[5A[2K8e5e0e9e68b5: Downloading  88.45MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  32.83MB/48.19MB[3B[6A[2Kfd63102cac36: Extracting  53.48MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  92.74MB/202.7MB[5B[6A[2Kfd63102cac36: Extracting  59.05MB/64.35MB[6B[3A[2K95ef6d101a72: Downloading  34.79MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  96.48MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  36.75MB/48.19MB[3B[6A[2Kfd63102cac36: Extracting  61.28MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  101.3MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  38.71MB/48.19MB[3B[6A[2Kfd63102cac36: Extracting   63.5MB/64.35MB[6B[5A[2K8e5e0e9e68b5: Downloading  105.5MB/202.7MB[5B[6A[2Kfd63102cac36: Extracting  64.06MB/64.35MB[6B[3A[2K95ef6d101a72: Downloading  40.67MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  109.8MB/202.7MB[5B[6A[2Kfd63102cac36: Extracting  64.35MB/64.35MB[6B[6A[2Kfd63102cac36: Pull complete [6B[5A[2K8e5e0e9e68b5: Downloading  114.7MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  42.63MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  118.4MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading   44.1MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  119.5MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  44.59MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  125.4MB/202.7MB[5B[3A[2K95ef6d101a72: Downloading  47.05MB/48.19MB[3B[5A[2K8e5e0e9e68b5: Downloading  128.6MB/202.7MB[5B[3A[2K95ef6d101a72: Verifying Checksum [3B[3A[2K95ef6d101a72: Download complete [3B[5A[2K8e5e0e9e68b5: Downloading  133.5MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  138.8MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  143.1MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  144.7MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  147.9MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  153.8MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading    157MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  158.7MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  166.2MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  170.5MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  174.8MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading    179MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  182.8MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  186.5MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  190.3MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading    194MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  197.8MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Downloading  202.1MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Verifying Checksum [5B[5A[2K8e5e0e9e68b5: Download complete [5B[5A[2K8e5e0e9e68b5: Extracting  557.1kB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  10.03MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  18.94MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  20.61MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  21.73MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  22.84MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  23.95MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  25.07MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  26.18MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  28.41MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  29.52MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  33.42MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  43.45MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  51.81MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  60.16MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting   71.3MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  81.33MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  91.36MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  99.71MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  108.6MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  118.1MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  123.7MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  133.7MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  143.7MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting    151MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  160.4MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  161.5MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  168.8MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  176.6MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting    181MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  186.1MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  189.4MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  193.3MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  198.3MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  199.4MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  201.1MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  202.2MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Extracting  202.7MB/202.7MB[5B[5A[2K8e5e0e9e68b5: Pull complete [5B[4A[2Kf9c5a973b5c3: Extracting  3.321kB/3.321kB[4B[4A[2Kf9c5a973b5c3: Extracting  3.321kB/3.321kB[4B[4A[2Kf9c5a973b5c3: Pull complete [4B[3A[2K95ef6d101a72: Extracting  491.5kB/48.19MB[3B[3A[2K95ef6d101a72: Extracting   11.3MB/48.19MB[3B[3A[2K95ef6d101a72: Extracting  21.63MB/48.19MB[3B[3A[2K95ef6d101a72: Extracting  32.93MB/48.19MB[3B[3A[2K95ef6d101a72: Extracting  37.85MB/48.19MB[3B[3A[2K95ef6d101a72: Extracting  39.81MB/48.19MB[3B[3A[2K95ef6d101a72: Extracting  41.78MB/48.19MB[3B[3A[2K95ef6d101a72: Extracting  43.75MB/48.19MB[3B[3A[2K95ef6d101a72: Extracting  45.22MB/48.19MB[3B[3A[2K95ef6d101a72: Extracting  46.69MB/48.19MB[3B[3A[2K95ef6d101a72: Extracting  47.68MB/48.19MB[3B[3A[2K95ef6d101a72: Extracting  48.19MB/48.19MB[3B[3A[2K95ef6d101a72: Pull complete [3B[2A[2K676d989fa12f: Extracting  32.77kB/1.251MB[2B[2A[2K676d989fa12f: Extracting  1.251MB/1.251MB[2B[2A[2K676d989fa12f: Pull complete [2B[1A[2Ke3b34c2de4c2: Extracting     447B/447B[1B[1A[2Ke3b34c2de4c2: Extracting     447B/447B[1B[1A[2Ke3b34c2de4c2: Pull complete [1BDigest: sha256:d17aaa2a2fd82e09bd6a6da7cc4a79741340d2a3e39d172d1b30f295b1a850ff
-Status: Downloaded newer image for node:20
-[?2004hroot@6669c7258ccf:/# mkdir u /usr/src/app
-[?2004l[?2004hroot@6669c7258ccf:/# ls
-[?2004lbin  boot  dev	etc  home  lib	media  mnt  opt  proc  root  run  sbin	srv  sys  tmp  usr  var
-[?2004hroot@6669c7258ccf:/# node /usr/s
-sbin/  share/ src/   
-root@6669c7258ccf:/# node /usr/src/app/index.js 
-[?2004lHello, World
-[?2004hroot@6669c7258ccf:/# 
+Script done on Sat Jan  4 23:05:25 2025
