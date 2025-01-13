@@ -1,6 +1,6 @@
 services:
   app:
-    image: todo-frontend
+    image: todo-frontend-dev
     build:
       context: . # The context will pick this directory as the "build context"
       dockerfile: dev.Dockerfile # This will simply tell which dockerfile to read

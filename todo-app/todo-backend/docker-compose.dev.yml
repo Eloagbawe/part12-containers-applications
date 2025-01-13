@@ -18,6 +18,7 @@ services:
     image: mongo
     ports:
       - 3456:27017
+    container_name: todo-backend-dev # This will name the container
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: example
